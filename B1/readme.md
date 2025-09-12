@@ -1,6 +1,5 @@
-# Bài tập BONUS 1 HSF302-FALL2025
+# Thông tin bài 1
 
-# Thông tin sinh viên
 - **Họ và tên:** Hà Vũ Long
 - **Mã sinh viên:** HE186065
 - **Lớp:** SE1955
