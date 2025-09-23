@@ -12,3 +12,6 @@
 
 # Bài 3: DEMO Mối quan hệ Many to Many
 🌐https://github.com/longmoon2k4/HSF-FALL2025/tree/main/B2
+
+# Bài 4: DEMO AOP
+🌐https://github.com/longmoon2k4/HSF-FALL2025/tree/main/B4/B4
