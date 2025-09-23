@@ -15,3 +15,6 @@
 
 # Bài 4: DEMO AOP
 🌐https://github.com/longmoon2k4/HSF-FALL2025/tree/main/B4/B4
+
+# Bài 5: DEMO Spring Boot
+🌐https://github.com/longmoon2k4/HSF-FALL2025/tree/main/B5
