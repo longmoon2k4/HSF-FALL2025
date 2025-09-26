@@ -18,3 +18,6 @@
 
 # Bài 5: DEMO Spring Boot
 🌐https://github.com/longmoon2k4/HSF-FALL2025/tree/main/B5
+
+# Bài 6: Spring Data JPA
+🌐https://github.com/longmoon2k4/HSF-FALL2025/tree/main/B6
