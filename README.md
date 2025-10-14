@@ -21,3 +21,6 @@
 
 # Bài 6: Spring Data JPA
 🌐https://github.com/longmoon2k4/HSF-FALL2025/tree/main/B6
+
+# Bài 7: Thymeleaf Demo
+🌐https://github.com/longmoon2k4/HSF-FALL2025/tree/main/B7
